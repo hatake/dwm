@@ -80,7 +80,7 @@ static Key keys[] = {
 	{ MONKEY,		    		XK_F6,						spawn,          {.v = stop} },
 	{ MONKEY,		            XK_F7,						spawn,          {.v = prev} },
 	{ MONKEY,		            XK_F8,						spawn,          {.v = next} },
-	{ MONKEY,		            XK_F10,						spawn,          {.v = mute} },
+	{ MONKEY,		            XK_F10,						spawn,          {.v = volm} },
 	{ MONKEY,		            XK_F11,						spawn,          {.v = vold} },
 	{ MONKEY,		    		XK_F12,						spawn,          {.v = volu} },
 
